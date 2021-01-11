@@ -1,25 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: June 09, 2021 (Saturday)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I learnt history, Background and usage of Python.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I was eased into the program with clear and simple explanations of the  tutor.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** NA
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: June 10, 2021 (Sunday)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Installed working tools - Anaconda Navigator, Sublime Text, Jupyter Notebook.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I need to move faster to coding
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:NA
 
 
-### Day 1: June 27, Monday
+### Day 2: June 10, 2021 (Monday)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
