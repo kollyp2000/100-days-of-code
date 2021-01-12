@@ -19,12 +19,13 @@
 **Link(s) to work**:NA
 
 
-### Day 2: June 10, 2021 (Monday)
+### Day 2: June 11, 2021 (Monday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I learnt string indexing and slicing, Variable assignment, and data types
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I need to dedicate more time to practising as I have noticed that if I leave the coding for 24  hours, I will need to re-learn everything I have learned
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Simple Arithmetic, logic calculations using Jupyter Notebook
+2. String Indexing and Slicing were learned as well
+
